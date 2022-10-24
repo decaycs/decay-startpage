@@ -12,8 +12,8 @@ wip
 
 - [x] Make the base of the repo
 - [x] Implement a good readme
-- [ ] Add screenshots
 - [x] Make the base of the port
+- [ ] Add screenshots
 - [ ] Add support for others palettes
 
 # Thanks to:
