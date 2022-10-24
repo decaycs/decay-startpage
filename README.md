@@ -16,7 +16,7 @@ Forked from [Axarvas Startpage](https://github.com/Axarva/dotfiles-2.0/tree/main
 - [x] Make the base of the port
 - [x] Add screenshots
 - [ ] Make decay themed icons
-- [ ] Add support for others palettes
+- [ ] Add support for other palettes
 
 # Thanks to:
 
