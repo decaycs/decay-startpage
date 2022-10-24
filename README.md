@@ -20,5 +20,5 @@ wip
 # Thanks to:
 
 - [d-solis](https://github.com/d-solis)
-- [Alpha](https://github.com/alphatechnolog)
+- [Alpha](https://github.com/alphatechnolog) (for making decay theme)
 - [Axarva](https://github.com/axarva)
