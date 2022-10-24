@@ -152,21 +152,21 @@ a:visited {
 
 
 div.bookmarks.cod a:hover {
-  color: #00CF35;
+  color: #74bee9;
 }
 
 div.bookmarks.doc a:hover {
-  color: #c47eb7;
+  color: #74bee9;
 }
 
 div.bookmarks.ent a:hover {
-  color: #90c861;
+  color: #74bee9;
 }
 
 div.bookmarks.mus a:hover {
-  color:  #84afdb;
+  color:  #74bee9;
 }
 
 div.bookmarks.art a:hover {
-  color: #FF62CE;
+  color: #74bee9;
 }
