@@ -14,7 +14,7 @@ wip
 - [x] Implement a good readme
 - [x] Add screenshots
 - [x] Make the base of the port
-- [ ] Add support for others palettes: dark decay, decayce and light decay
+- [ ] Add support for others palettes
 
 # Thanks to:
 
