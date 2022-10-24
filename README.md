@@ -13,7 +13,7 @@ wip
 - [x] Make the base of the repo
 - [x] Implement a good readme
 - [x] Make the base of the port
-- [ ] Add make decay themed icons
+- [ ] Make decay themed icons
 - [ ] Add screenshots
 - [ ] Add support for others palettes
 
