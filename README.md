@@ -6,7 +6,8 @@ Forked from [Axarvas Startpage](https://github.com/Axarva/dotfiles-2.0/tree/main
 
 # Gallery
 
-wip
+![image](https://user-images.githubusercontent.com/43517199/197637712-7ccbbf6e-7356-432a-a544-2af69e05d39b.png)
+
 
 # To Do list
 
