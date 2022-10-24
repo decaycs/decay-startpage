@@ -1,6 +1,6 @@
 # Decay themed browser startpage!
 
-[Live Demo](d-solis.github.io/Decay-StartPage)
+[Live Demo]([d-solis.github.io/Decay-StartPage/](https://d-solis.github.io/Decay-StartPage/))
 
 Forked from [Axarvas Startpage](https://github.com/Axarva/dotfiles-2.0/tree/main/startpage)
 
